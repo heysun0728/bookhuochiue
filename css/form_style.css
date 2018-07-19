@@ -1,0 +1,176 @@
+﻿form{
+   padding:100px 170px 100px 170px;
+   font-family:Microsoft JhengHei;
+   color:black;
+   position:absolute;
+}
+#calendar_form{
+  position:relative;
+  padding:0px;
+  margin:0px 10px;
+}
+#res_form2 {
+  color:white;
+  padding:80px 130px;
+}
+#res_form2 h2{
+  border-left:2px solid #ffe66f;
+  padding:0px 10px;
+  color:#ffe66f;
+  opacity:0.99;
+}
+#form_type2{
+  left:0%;
+  top:0%;
+  padding:10px 10px;
+  width:60%;
+  height:60px;
+  border-radius:10px;
+}
+#table_type1{
+  position:absolute;
+  left:5%;
+  top:15%;
+  padding:50px 75px;
+  background-color:white;
+  width:70%;
+  height:70%;
+  border-radius:10px;
+}
+#form_type3{
+  left:5%;
+  top:15%;
+  padding:50px 75px;
+  background-color:white;
+ width:70%;
+  height:70%;
+  border-radius:10px;
+}
+#form_type3 #page{
+   position:fixed;
+   left:50%;
+   bottom:10%;
+   text-align:center;
+}
+#form_type9{
+  top:0;
+  left:0;
+  padding:50px 0px;
+  width:75%;
+  height:75%;
+  border-radius:10px;
+}
+#form_type1{
+  left:5%;
+  top:7%;
+  padding:50px 75px;
+  background-color:white;
+  width:70%;
+  height:75%;
+  border-radius:10px;
+}
+#form_type1 #page{
+   position:fixed;
+   left:50%;
+   bottom:15%;
+   text-align:center;
+}
+#loginform{
+  padding:0px;
+  background-color:#ffe66f;
+  left:14%;
+  top:25%;
+  opacity:0.95;
+  height:50%;
+  width:30%;
+}
+.loginform_p{
+  position:absolute;
+  left:30%;
+  top:25%;
+}
+
+#register_form{
+  background-color:#ffe66f;
+  left:32%;
+  width:25%;
+  height:70%;
+}
+#school_form{
+  background-color:#ffe66f;
+  left:32%;
+  width:25%;
+  height:70%;
+}
+.yellowform{
+  background-color:#ffe66f;
+  left:32%;
+  width:25%;
+  height:70%;
+}
+.form-group1{
+   position:absolute;
+   left:8%;
+}
+.form-group2{
+   position:absolute;
+   left:50%;
+}
+.form-group3{
+   position:absolute;
+   left:8%;
+   top:80%;
+}
+input{
+  margin:10px 5px;
+  padding:10px;
+  box-sizing:border-box;
+}
+input[type=radio]{
+  width:25px;
+}
+input[type=submit]{
+  margin:0px 5px;
+  padding:5px 5px;
+  color:white;
+  background-color:#3C3C3C;
+  font-size:80%;
+  font-family:Microsoft JhengHei;
+}
+input[type=checkbox]{
+  margin:10px;
+  width:20px;
+  height:20px;
+}
+input[type=button]{
+  padding:5px 5px;
+  margin:0px 5px;
+  color:white;
+  background-color:#3C3C3C;
+  font-size:80%;
+  font-family:Microsoft JhengHei;  
+}
+button{
+  margin:0px 5px;
+  padding:5px 5px;
+  color:white;
+  background-color:#3C3C3C;
+  font-size:80%;
+  font-family:Microsoft JhengHei;
+} 
+textarea{
+  margin:10px 5px;
+  padding:10px;
+}
+select{
+  margin:10px 0;
+  padding:10px;
+  box-sizing:border-box;
+}
+a{
+  text-decoration: underline;
+  color:#3C3C3C;
+  padding:10px;
+}
+
+s

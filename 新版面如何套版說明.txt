@@ -1,0 +1,10 @@
+1)匯need黨
+2)css檔need裡有匯,所以不用再加
+3)權限不足的failure和failure_c已加,所以不用再加
+4)要套有頭像的版本->複製zone1
+5)zone2->裡面放原本article語法(去掉reg_pic1那三行)
+
+|form樣式|
+form_type1:一般表格都能套用 ex.選擇服務管室
+form_type2:表格上面的選項或是按鈕 ex.預約上面查詢年月的清單
+form_type3:跟type2搭配,在他下面的form使用 

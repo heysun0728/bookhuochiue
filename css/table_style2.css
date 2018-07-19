@@ -1,0 +1,30 @@
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+th,td{
+	font-family:'微軟正黑體';
+    font-size:20px;
+    padding:10px 3px;
+    text-align:left;
+    color:black;
+}
+th{
+	padding:0px 3px 10px 3px;
+	border-bottom: 3px solid #f0f0f0;
+}
+#service_box{
+  background-color:#f0f0f0;
+	padding:20px 20px;
+  border-radius:10px;
+  position:relative;
+}
+td a{
+   text-decoration:none;
+   font-family:Microsoft JhengHei;
+   font-size:100%;
+   color:black;
+   padding:5px 5px;
+}
+
+

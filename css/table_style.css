@@ -1,0 +1,31 @@
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+th,td{
+	font-family:Microsoft JhengHei;
+    font-size:20px;
+    padding:10px 3px;
+    text-align:left;
+    color:black;
+}
+th{
+	padding:10px 3px;
+}
+tr:nth-child(even){
+	background-color: #ffe980;
+}
+#calendar th{
+	text-align:center;
+}
+#calendar td{
+	height:100px;
+	width:150px;
+	padding:0px;
+	margin:5px;
+}
+#service_box{
+	padding:0px 20px;
+	border-left:2px double #ffe66f;
+}
+

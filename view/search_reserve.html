@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>預約查詢</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="stylesheet" type="text/css" href="../css/login_and_submit.css">
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" >
+<link href="../css/style.css" rel="stylesheet" type="text/css" >
+
+</head>
+<body>
+<nav>
+<?php include '../nav_control.php';?> 
+</nav>
+<div class="main">
+<form method="post" action="../model/search_reserve.php">
+  日期:<input name="date-input" type="date"/><br>
+  時段:
+  <select name="Tinterval-input">
+     <option value="1">上午</option>
+	 <option value="2">下午</option>
+  </select><br><br>
+  <input type="submit" value="查詢"/>
+</form>
+</div>
+<br><br>
+</body>
+</html>
